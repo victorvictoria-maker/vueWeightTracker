@@ -183,10 +183,10 @@ form input[type="submit"] {
 	cursor: pointer;
 	background-color: rgb(164, 8, 151);
 
-	padding: 0.5rem 1rem;
+	padding: 0.5rem 0.8rem;
 
 	color: white;
-	font-size: 1.25rem;
+	font-size: 1rem;
 	font-weight: 700;
 	transition: 200ms linear;
 	border-left: 3px solid transparent;
